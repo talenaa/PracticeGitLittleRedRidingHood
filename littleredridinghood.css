@@ -6,7 +6,7 @@
 
 
 body{
-    background-color: beige;
+    background-color:burlywood;
 }
 
 
@@ -21,7 +21,19 @@ body{
     font-family: monospace;
 }
 
+
+.text2{
+    font-size: 20px;
+    font-family: monospace;
+}
+
 .red1{
+    width: 250px;
+    height: 150px;
+}
+
+
+.red2{
     width: 250px;
     height: 150px;
 }
