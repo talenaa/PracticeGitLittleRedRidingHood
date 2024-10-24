@@ -17,65 +17,65 @@ body{
 }
 
 .text1{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
 
 .text2{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
 
 .text3{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
 
 .text4{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
 
 .text5{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
 
 .text6{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
 .text7{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
 .text8{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
 
 .text9{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;                                                         
 }
 
 
 .text10{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
 
 .text12{
-    font-size: 20px;
+    font-size: 25px;
     font-family: monospace;
 }
 
@@ -151,6 +151,24 @@ body{
 
 
 .red13{
+    width: 300px;
+    height: 200px;
+}
+
+
+.red14{
+    width: 300px;
+    height: 200px;
+}
+
+
+.red15{
+    width: 300px;
+    height: 200px;
+}
+
+
+.red16{
     width: 300px;
     height: 200px;
 }
