@@ -61,6 +61,12 @@ body{
     font-family: monospace;
 }
 
+
+.text9{
+    font-size: 20px;
+    font-family: monospace;                                                         
+}
+
 .red1{
     width: 250px;
     height: 150px;
@@ -104,6 +110,17 @@ body{
 
 
 .red8{
+    width: 250px;
+    height: 150px;
+}
+
+.red9{
+    width: 250px;
+    height: 150px;
+}
+
+
+.red10{
     width: 250px;
     height: 150px;
 }
