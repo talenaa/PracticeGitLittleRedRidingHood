@@ -27,6 +27,12 @@ body{
     font-family: monospace;
 }
 
+
+.text3{
+    font-size: 20px;
+    font-family: monospace;
+}
+
 .red1{
     width: 250px;
     height: 150px;
@@ -40,6 +46,12 @@ body{
 
 
 .red3{
+    width: 250px;
+    height: 150px;
+}
+
+
+.red4{
     width: 250px;
     height: 150px;
 }
