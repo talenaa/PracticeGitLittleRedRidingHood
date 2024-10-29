@@ -14,100 +14,10 @@ body{
     display: flex;
     justify-content: left;
     flex-wrap: wrap;
-}
-
-.text1{
     font-size: 25px;
     font-family: monospace;
 }
 
-
-.text2{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text3{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text4{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text5{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text6{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-.text7{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-.text8{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text9{
-    font-size: 25px;
-    font-family: monospace;                                                         
-}
-
-
-.text10{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text12{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text13{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text14{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text15{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text16{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-
-.text17{
-    font-size: 15px;
-    font-family: fantasy;
-}
 
 .red1{
     width: 300px;
@@ -204,8 +114,13 @@ body{
 }
 
 
-.end{
+footer{
     font-size: 40px;
     font-family: fantasy;
+    text-align: center;
+}
+.finalText{
+    font-size: 25px;
+    font-family: monospace;
     text-align: center;
 }
