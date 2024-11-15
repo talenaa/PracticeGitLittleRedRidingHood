@@ -4,11 +4,9 @@
     font-family: fantasy;
 }
 
-
 body{
     background-color:burlywood;
 }
-
 
 .allText{
     display: flex;
@@ -18,48 +16,40 @@ body{
     font-family: monospace;
 }
 
-
 .red1{
     width: 300px;
     height: 200px;
 }
-
 
 .red2{
     width: 300px;
     height: 200px;
 }
 
-
 .red3{
     width: 300px;
     height: 200px;
 }
-
 
 .red4{
     width: 300px;
     height: 200px;
 }
 
-
 .red5{
     width: 300px;
     height: 200px;
 }
-
 
 .red6{
     width: 300px;
     height: 200px;
 }
 
-
 .red7{
     width: 300px;
     height: 200px;
 }
-
 
 .red8{
     width: 300px;
@@ -71,54 +61,47 @@ body{
     height: 200px;
 }
 
-
 .red10{
     width: 300px;
     height: 200px;
 }
-
 
 .red11{
     width: 300px;
     height: 200px;
 }
 
-
 .red12{
     width: 300px;
     height: 200px;
 }
-
 
 .red13{
     width: 300px;
     height: 200px;
 }
 
-
 .red14{
     width: 300px;
     height: 200px;
 }
-
 
 .red15{
     width: 300px;
     height: 200px;
 }
 
-
 .red16{
     width: 300px;
     height: 200px;
 }
-
 
 footer{
     font-size: 40px;
     font-family: fantasy;
     text-align: center;
 }
+
 .finalText{
     font-size: 25px;
     font-family: monospace;
